@@ -8,16 +8,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ElevatorAgent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@1.7.2-preview/Runtime/Agent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@1.7.2-preview/Runtime/DecisionRequester.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scenario.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@1.0.6/Runtime/Agent.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MoveToGoalAgent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Test.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Floor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Elevator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Call.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Scenario.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ElevatorAgent.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oZLnTqPTkxF8Ip1HW8Cvdw00tL" />
@@ -70,7 +78,10 @@
       <workItem from="1613742199547" duration="684000" />
       <workItem from="1613742953077" duration="832000" />
       <workItem from="1613809649448" duration="626000" />
-      <workItem from="1614090023007" duration="5097000" />
+      <workItem from="1614090023007" duration="6631000" />
+      <workItem from="1614391653587" duration="1152000" />
+      <workItem from="1614995310549" duration="1950000" />
+      <workItem from="1623683094806" duration="4626000" />
     </task>
     <servers />
   </component>
